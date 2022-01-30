@@ -10,11 +10,11 @@ const GlobalStyle = ({ children }) => {
       <Global
         styles={css`
           ::selection {
-            background-color: #90CDF4;
+            background-color: #06417A;
             color: #fefefe;
           }
           ::-moz-selection {
-            background: #ffb7b7;
+            background: #06417A;
             color: #fefefe;
           }
           html {
