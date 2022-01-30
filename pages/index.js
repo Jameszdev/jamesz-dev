@@ -48,7 +48,7 @@ export default function Index() {
             alignItems="flex-start"
             maxWidth="700px"
           >
-            <Heading mb={2}>👋 Hey! I'm James -</Heading>
+            <Heading mb={2}>👋 Hey! I&apos; James -</Heading>
             <Text>A 17 year old aspiring software engineer. I love to code whenever I get the chance. This is my website, portfolio, mess-around site! Scroll down to read more.</Text>
           </Flex>
         </Stack>
